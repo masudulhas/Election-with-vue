@@ -1,13 +1,13 @@
 <template>
-  <HelloWorld />
+  <PollChart />
 </template>
 
 <script>
-  import HelloWorld from '../components/HelloWorld'
+  import PollChart from '../components/PollChart'
 
   export default {
     components: {
-      HelloWorld
+      PollChart
     }
   }
 </script>
